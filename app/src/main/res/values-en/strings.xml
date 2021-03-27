@@ -10,9 +10,7 @@
     <string name="app_icon">App Icon</string>
     <string name="background">Background</string>
     <string name="avatar">Avatar</string>
-    <string name="icon_followers">Icon Followers</string>
     <string name="unknown">Unknown</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="search">Search</string>
     <string name="failed_to_getting_data">Failed to getting data</string>
     <string name="refresh">Refresh</string>
